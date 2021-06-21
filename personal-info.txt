@@ -1,0 +1,7 @@
+Name:Zaira G.Realco
+Course/Year: BSIT 2-D
+Birth date:April 1,1998
+Age: 23
+Gender: Female
+Marital Status: Single
+Nationality: Filipino
