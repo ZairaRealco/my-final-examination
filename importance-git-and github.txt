@@ -1,1 +1,19 @@
+Github is undeniably advantageous. As an IT student, I can attest to the fact that utilizing this website is a great experience. It helps me realize how critical it is in my education and future job for seven reasons.
+1. It makes contributing to open source projects simple.
+To be honest, GitHub is used to handle almost every open-source project. If your project is open source, GitHub is free to use, and it contains a wiki and issue tracker that make it simple to provide more detailed documentation and receive feedback.
+2. Recordings
+You can get better documentation by using GitHub. They provide articles on practically every issue connected to git in their help section and tutorials.
+3. Put your work on display
+Do you want to attract recruiters as a programmer? For this, GitHub is the best option. Most firms nowadays check at GitHub profiles while looking for fresh recruits for their project. Even if you did not attend a top university or college, if your profile is available, you will have a better chance of being hired.
+4. Create a markdown document
+To create prepared documents, you can use Markdown and a simple text editor. Everything on GitHub, including the issue tracker and user comments, is written in Markdown. With so many other computer languages to master in order to build up projects, having your content inputted in a format without having to learn another system is a huge benefit.
+5. GitHub is a service that allows you to save and share files.
+The fact that GitHub is a repository has already been mentioned, but it's worth repeating.
+This implies that your work can reach a wider audience. Furthermore, GitHub is currently one of the largest coding communities, so it has a lot of visibility.
+6. Track changes in your code across versions
+When multiple people collaborate on a project, it’s hard to keep track revisions—who changed what, when, and where those files are stored. GitHub takes care of this problem by keeping track of all the changes that have been pushed to the repository. Much like using Microsoft Word or Google Drive, you can have a version history of your code so that previous versions are not lost with every iteration.
+7. Integration options
+GitHub can integrate with common platforms such as Amazon and Google Cloud, services such as Code Climate to track your feedback, and can highlight syntax in over 200 different programming languages.
 
+Yes,Those that have achieved success as a result of using this website astound me. That is why I am determined to use this website to its maximum potential, allowing me to maintain original copies of my project, create a new version in response to concerned criticism and tips from others, and, finally, meet my clients without having to start again.
+As a result, a high-quality output is produced,this makes not just a success but a true career fulfilment.
