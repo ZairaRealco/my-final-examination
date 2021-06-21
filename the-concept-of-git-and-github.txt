@@ -1,1 +1,34 @@
-
+                                      Concept of Git and Github
+GitHiub is not only inexpensive, but it also has a fantastic open source community. Because it is a cloud-based platform, the code is more visible throughout the business, and anyone may now contribute to it.
+GitHub allows people from all over the world to collaborate. Any potential developer can contribute and share information to help the global community by using open source.
+Git and Github Is Misunderstood: GitHub is not the same as Git.
+So, how do you tell the difference between git and github?
+What exactly is Git?
+Git is a version-control system (i.e., software) that allows you to maintain track of your computer programs and files, as well as the changes you make to them over time. It also lets you to work on a program, code, or file with your peers. By keeping track of project files and allowing numerous people to collaborate, Git benefits both programmers and non-technical users. Large projects can be completed quickly and  it is used for Source Code Management.
+(What is a Version Control System, and what is it used for?
+A version control system keeps track of any changes made to a file or set of files so that a specific version can be reverted if necessary. This ensures that everyone in the team is working on the most recent version of the document.)
+And what exactly is Github?
+GitHub is a service that hosts Git repositories.It has a graphical user interface that is accessible over the web GitHub allows everyone on the team to collaborate on the project from anywhere. Similar services (such as GitLab and BitBucket) run a Git server program to save your code.
+What are the features of Github?
+1.Easy project administration
+Project managers and developers use GitHub to collaborate, track, and update their work so that projects stay transparent and on track.
+2. Package security has been improved.
+3.Better code writing
+On GitHub, pull requests assist teams in reviewing, improving, and proposing new code. Before modifying the source code, the implementations and proposals can be discussed.
+4.Improved code security
+GitHub employs technologies to find and evaluate code flaws that other tools are prone to overlook. From start to finish, development teams from all around the world collaborate to safeguard the software supply chain.
+5.Easy-to-host code
+All of the coding and documentation are in one location. On GitHub, there are millions of repositories, each with its own set of tools for hosting and releasing code.
+ How do you utilize Github?
+Install git and sign up for a GitHub account as the first step.
+Step One, Make a git repository on your own computer.
+Step two, Update the repo with a new file.
+Step three, In the staging environment, add a file.
+Create a commit as the fourt step.
+Create a new branch in the fifth step.
+Step six, Open a GitHub account and make a new repository.
+Step seven, Create a GitHub branch
+Create a pull request as the eighth step (PR)
+Step nine,Combine two PRs into a single file
+Step ten: Restore your computer's updates from GitHub.
+Step eleven, Take a moment to bask in the glory of your git.
